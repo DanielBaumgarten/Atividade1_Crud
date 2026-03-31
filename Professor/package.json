@@ -1,0 +1,20 @@
+{
+  "name": "atividades_aula03",
+  "version": "1.0.0",
+  "main": "exercicio1.js",
+  "scripts": {
+    "start": "node exercicio1",
+    "ex1": "node exercicio1",
+    "ex2": "node exercicio2",
+    "ex3": "node exercicio3",
+    "ex4": "node exercicio4",
+    "ex5": "node exercicio5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
